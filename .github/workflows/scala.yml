@@ -14,4 +14,4 @@ jobs:
       with:
         java-version: 1.8
     - name: Run tests
-      run: mvn deploy -Dregistry=https://maven.pkg.github.com/AngeloPingo -Dtoken=GH_TOKEN
+      run: mvn deploy -Dregistry=https://maven.pkg.github.com/AngeloPingo -Dtoken=e57fca9228f3add80bdf9d567349ce03a52a54d5
